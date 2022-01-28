@@ -11,7 +11,7 @@ Got a new adventure?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColiZei&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I am also an part time :guitar: punk rocker at www.astronuts.de and :alien: alien at www.lookitmartians.de
+I am also a part time :guitar: punk rocker at www.astronuts.de and :alien: alien at www.lookitmartians.de
 
 
 
