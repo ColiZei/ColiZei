@@ -7,6 +7,10 @@ Experienced adventurer always looking for challenging missions to gain new exper
 Got a new adventure?  
 :love_letter: Hit me up: www.collazo.de
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColiZei&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColiZei&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 I am also an part time :guitar: punk rocker at www.astronuts.de and :alien: alien at www.lookitmartians.de
 
 
